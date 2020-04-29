@@ -34,9 +34,9 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "/camera-app/",
     "background_color": "#3367D6",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/camera-app/",
     "theme_color": "#3367D6"
   }
